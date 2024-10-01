@@ -1,4 +1,4 @@
-# Este repositorio se enfoca en la manipulación de señales e imágenes usando Python. 
+# Este repositorio se enfoca en la manipulación de señales usando Python. 
 
 # Lecturas recomendadas:
 

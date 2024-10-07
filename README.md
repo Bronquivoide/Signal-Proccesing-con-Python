@@ -15,3 +15,5 @@
 6)  Bracewell, R. N. (1999). The Fourier transform and its applications (3rd ed.). McGraw-Hill.
 
 7) Arfken, G. B., & Weber, H. J. (2013). Mathematical methods for physicists (4th ed.). Academic Press.
+
+8) Smith, S. W. (2003). Digital signal processing: A practical guide for engineers and scientists. Newnes.

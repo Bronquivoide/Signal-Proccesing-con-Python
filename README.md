@@ -17,3 +17,5 @@
 7) Arfken, G. B., & Weber, H. J. (2013). Mathematical methods for physicists (4th ed.). Academic Press.
 
 8) Smith, S. W. (2003). Digital signal processing: A practical guide for engineers and scientists. Newnes.
+
+9) Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1996). Signals & systems. Prentice Hall.

@@ -1,6 +1,6 @@
 # Este repositorio se enfoca en la manipulación de señales usando Python. 
 
-# Lecturas recomendadas:
+# Bibliografía recomendada:
 
 1) Proakis, J. G., & Manolakis, D. K. (2007). Digital signal processing: Principles, algorithms, and applications (4th ed.). Pearson.
 

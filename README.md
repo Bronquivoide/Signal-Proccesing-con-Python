@@ -19,3 +19,11 @@
 8) Smith, S. W. (2003). Digital signal processing: A practical guide for engineers and scientists. Newnes.
 
 9) Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1996). Signals & systems. Prentice Hall.
+
+10) Debnath, L., & Shah, F. A. (2015). Wavelet transforms and their applications. Birkhäuser Boston: Birkhäuser.
+
+11) Bhatnagar, N. (2020). Introduction to wavelet transforms. Chapman and Hall/CRC.
+
+12) Burrus, C. S., Gopinath, R. A., & Guo, H. (1998). Introduction to wavelets and wavelet transforms: A primer. Prentice Hall.
+
+13) Meyer, Y. (1993). Wavelets and operators. Cambridge University Press.

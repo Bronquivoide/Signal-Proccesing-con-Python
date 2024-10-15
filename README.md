@@ -27,3 +27,9 @@
 12) Burrus, C. S., Gopinath, R. A., & Guo, H. (1998). Introduction to wavelets and wavelet transforms: A primer. Prentice Hall.
 
 13) Meyer, Y. (1993). Wavelets and operators. Cambridge University Press.
+
+14) Akansu, A. N. (2001). Multiresolution signal decomposition: Transforms, subbands, and wavelets (2nd ed.). Elsevier.
+
+15) Percival, D. B., & Walden, A. T. (2013). Wavelet methods for time series analysis. Cambridge University Press.
+
+16) Nguyen, T., & Strang, G. (1996). Wavelets and filter banks (2nd ed.). Wellesley College.
